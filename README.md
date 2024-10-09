@@ -1,2 +1,21 @@
-# course_ITMO_applied_AI_2024_2025
+# course ITMO applied AI 2024-2025
 Applied artificial intelligence course. We are starting from general statistics course and then consider some of the foundations of AI course to study complex systems, in particular urban systems.
+
+
+# syllabus of the first weeks of the course
+
+
+October 1st week
+\item 1st class: Elements of statistics for data analysis: building intuition with a dataset)
+
+October 2nd week
+2nd class: Introduction to data science (finishing statistics lectures plus notebooks)
+network science and data science for cities
+
+
+October 3rd week
+3rd class 
+Introduction to network science (finishing lectures from last weeks)
+Project assignments: presentations from Vasilii and/or Sergei/Maxim on libraries and optimisation problems
+Papers assignments: reading groups and classes 
+Homework selection and studying data dependencies (single variable vs. several variables datasets)
