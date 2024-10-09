@@ -6,16 +6,17 @@ Applied artificial intelligence course. We are starting from general statistics 
 
 
 October 1st week
-\item 1st class: Elements of statistics for data analysis: building intuition with a dataset)
+1st class: Elements of statistics for data analysis: building intuition with a dataset)
+- notebook on statistics of single variable datasets
 
 October 2nd week
 2nd class: Introduction to data science (finishing statistics lectures plus notebooks)
-network science and data science for cities
-
+- notebook on creating network objects in python, getting familiar with networkx
+- showing applications of network science and data science for cities
 
 October 3rd week
-3rd class 
-Introduction to network science (finishing lectures from last weeks)
-Project assignments: presentations from Vasilii and/or Sergei/Maxim on libraries and optimisation problems
-Papers assignments: reading groups and classes 
-Homework selection and studying data dependencies (single variable vs. several variables datasets)
+3rd class: 
+Introduction to network science (finishing lectures from last weeks),
+- Project assignments: presentations from Vasilii and/or Sergei/Maxim on libraries and optimisation problems,
+- Papers assignments: reading groups and classes,
+- Homework selection and studying data dependencies (single variable vs. several variables datasets)
