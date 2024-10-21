@@ -20,3 +20,9 @@ Introduction to network science (finishing lectures from last weeks),
 - Project assignments: presentations from Vasilii and/or Sergei/Maxim on libraries and optimisation problems,
 - Papers assignments: reading groups and classes,
 - Homework selection and studying data dependencies (single variable vs. several variables datasets)
+
+October 4th week 
+- assignment of the problems
+- presentaion of other libraries like bloksnet, iduedu,
+- homework left out questions
+- spatial networks properties
