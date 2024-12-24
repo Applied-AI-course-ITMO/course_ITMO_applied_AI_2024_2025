@@ -26,3 +26,7 @@ October 4th week
 - presentaion of other libraries like bloksnet, iduedu,
 - homework left out questions
 - spatial networks properties
+
+# some related references and related folder and github references 
+
+https://github.com/IDUclub
