@@ -29,4 +29,8 @@ October 4th week
 
 # some related references and related folder and github references 
 
+Institute of urbanistics ITMO
 https://github.com/IDUclub
+
+Blocksnet library 
+https://github.com/aimclub/blocksnet
