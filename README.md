@@ -27,6 +27,10 @@ October 4th week
 - homework left out questions
 - spatial networks properties
 
+
+November classes  
+- look at the courses noted here https://github.com/orgs/Reproducible-Urban-Research/projects/2 for reproducible projects 
+  
 # some related references and related folder and github references 
 
 Institute of urbanistics ITMO
